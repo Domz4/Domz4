@@ -1,4 +1,4 @@
-# Hey wave, I'm Dominik
+# Hey 👋, I'm Dominik
 
 Skills
 --
