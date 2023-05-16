@@ -4,7 +4,11 @@ Skills
 --
 ### Languages 
 
-![Lang](https://skillicons.dev/icons?i=javascript,typescript,react,haskell )
+![Lang](https://skillicons.dev/icons?i=javascript,typescript,haskell )
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,neovim,nodejs,nextjs,jest,css,sass )
+![Tools](https://skillicons.dev/icons?i=git,github,neovim,nodejs,jest,css,sass )
+
+### Frameworks/Libs
+
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs)
