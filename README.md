@@ -1,6 +1,4 @@
-Skills
---
-### Languages 
+### Stack 
 
 ![Lang](https://skillicons.dev/icons?i=javascript,typescript,python,haskell,cpp)
 ### Tools
