@@ -1,5 +1,3 @@
-# Hey 👋, I'm Dominik
-
 Skills
 --
 ### Languages 
